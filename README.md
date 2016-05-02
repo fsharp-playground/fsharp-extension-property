@@ -31,7 +31,7 @@ module ExtensionMethodForCSharp =
  - ต้องเพิ่ม `[<System.Runtime.CompilerServices.ExtensionAttribute>]`
  - Extension property `IsF#` ไม่สามารถเรียกใช้งานจาก `C#` ได้
 
- ### Extension method ของ Array
+### Extension method ใน Array
 
 ```fsharp
 type 'T``[]`` with
