@@ -15,3 +15,7 @@ type System.TimeSpan with
 let _20YearAgo = DateTime.Now - 20 .Years
 let _50YearAgo = 50 .Years.Ago
 let _100YearFromNow = DateTime.Now + 100 .Years
+
+// val _20YearAgo : DateTime = 5/2/1996 6:57:38 PM
+// val _50YearAgo : DateTime = 5/3/1966 6:57:38 PM
+// val _100YearFromNow : DateTime = 5/2/2116 6:57:38 PM
